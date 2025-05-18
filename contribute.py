@@ -7,7 +7,7 @@ total_day = 90 # how far back to start commits
 commit_freq = 20 # num of commits per day
 
 # set to True if you want the number of commits per day to be random for a more realistic graph
-variablity = True
+variablity = False
 
 # change to your repo
 # repo_link = "https://github.com/IamBibekChhetri/github_bot.git" # ssh
